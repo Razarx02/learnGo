@@ -15,6 +15,4 @@ func main() {
 		fmt.Print(counter)
 	}
 
-	
-
 }

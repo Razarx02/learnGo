@@ -3,10 +3,8 @@ package main
 import "fmt"
 
 func main() {
-
 	value := GiveZero()
 	fmt.Println(value)
-
 }
 
 

@@ -37,3 +37,4 @@ func maximumWealth(accounts [][]int) int {
 
 	return result
 }
+
